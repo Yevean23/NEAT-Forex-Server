@@ -18,3 +18,5 @@ With some expansion, this code could potentially produce some winning bots.
 
 The included MetaTrader code is an example of how to write API calls from .mql files and process the requests. 
 It can have as many concurrent agents training as you define. This number must match the number in the python server.
+
+### Disclaimer: only use for back-testing and with demo accounts!
